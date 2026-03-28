@@ -131,6 +131,12 @@ Desarrollar una plataforma que transforme la forma en que se aprende y se trabaj
 
 ---
 
+## <img src="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.11.3/icons/globe.svg" width="20"/> Pagina Web
+
+👉 [https://devsyncs-web.vercel.app/](https://devsyncs-web.vercel.app/)
+
+---
+
 ## Autor
 
 Proyecto desarrollado por Lautaro N Ponce
